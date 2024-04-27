@@ -33,7 +33,7 @@ Technically, this GPT tool is developed with a combination of AI and NLP (Natura
 The problem with this AI tool is that while it can automate time-consuming publishing tasks, and predict the readers’ reading choice, it still cannot write well. Today, AI is still reliant on “stringing together” concepts into some coherent ramble, but it cannot improvise the language to produce better narrative. 
 
 ### What is the difference between AI and human writers?
-Not only GPT-3, there are other AI writing assistants available worldwide, Grammarly, Writesonic, Jasper, and Semrush, to name a few. Writers can use these tools to make their content crisp; some may use them to rephrase. Yet, these tools cannot be completely relied on. 
+Not only GPT-3, but there are other AI writing assistants available worldwide, Grammarly, Writesonic, Jasper, and Semrush, to name a few. Writers can use these tools to make their content crisp; some may use them to rephrase. Yet, these tools cannot be completely relied on. 
 
 -	AI cannot help in rendering emotions through the content the way humans would. It struggles to write coherent, engaging lengthy content in a flow or thought stream. 
 -	Only humans can bring forth a variety of judgments and opinions into text. AI is far away from replicating such qualities.
@@ -54,5 +54,4 @@ The truth is that businesses still need content writers. AI doesn’t always wor
 **Reference**
 
 https://www.mckinsey.com/featured-insights/artificial-intelligence/global-ai-survey-ai-proves-its-worth-but-few-scale-impact
-
 https://www.mckinsey.com/~/media/mckinsey/industries/advanced%20electronics/our%20insights/how%20artificial%20intelligence%20can%20deliver%20real%20value%20to%20companies/mgi-artificial-intelligence-discussion-paper.ashx
