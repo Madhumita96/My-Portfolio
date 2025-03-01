@@ -12,26 +12,9 @@ POST
 https://petstore.swagger.io/v2/pet
 ## Example Request JSON
 <ExampleRequestJSON>
-    <![CDATA[
-    {
-      "id": 123,
-      "category": {
-        "id": 2,
-        "name": "dog"
-      },
-      "name": "Pookie",
-      "photoUrls": [
-        "string"
-      ],
-      "tags": [
-        {
-          "id": 0,
-          "name": "string"
-        }
-      ],
-      "status": "available"
-    }
-    ]]>
+    <value>
+        { "id": 123, "category": { "id": 2, "name": "dog" }, "name": "Pookie", "photoUrls": ["string"], "tags": [{ "id": 0, "name": "string" }], "status": "available" }
+    </value>
 </ExampleRequestJSON>
 
 
